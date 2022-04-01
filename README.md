@@ -1,5 +1,4 @@
-# financial-algorithms
-Tool containing algorithms written in python for investing and trading purposes.
+# Investing & Trading algorithm tool
 <img width="465" alt="image" src="https://user-images.githubusercontent.com/82605116/161282882-48b0d098-5350-4d2c-8e02-a5b914f4b656.png">
 In The Money Calcualtor
 <img width="457" alt="image" src="https://user-images.githubusercontent.com/82605116/161283044-5f890975-c14b-47e5-b11b-4a246d3de67b.png">
